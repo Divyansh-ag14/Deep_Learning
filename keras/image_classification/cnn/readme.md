@@ -1,1 +1,1 @@
-(https://github.com/Divyansh-ag14/Deep_Learning/edit/main/keras/CNN/readme.md)
+(https://github.com/Divyansh-ag14/Deep_Learning/tree/main/keras/CNN#readme)
