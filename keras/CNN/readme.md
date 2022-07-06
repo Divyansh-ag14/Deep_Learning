@@ -14,4 +14,4 @@
 
 ### CNN Architecture
 
-![img]()
+![img](cnn_arch.png)
